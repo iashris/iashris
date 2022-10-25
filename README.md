@@ -13,4 +13,4 @@ I am a product engineer and have four years of experience working in startups as
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iashris_?style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/Ashris/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashris)
