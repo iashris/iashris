@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**iashris/iashris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a product engineer and have four years of experience working in startups as a Frontend Engineer 👨‍💻. Studied architecture at IIT Kharagpur, did research on Mixed Reality at MIT Media Lab and ETH Zurich. Creator, [India in Pixels](https://youtube.com/@iip)
 
-Here are some ideas to get you started:
+- 🔭 Currently Sr. Software Engineer at @headsupai working on ReactJS, NextJS, Chrome Extension, GraphQL.
+- 🍔 Founder India in Pixels, currently working on iipmaps.com
+- 💬 Read out about my projects [iashris.com](https://iashris.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/iashris/count.svg" />
+
+### 📫 Reach me at 
+![Twitter Follow](https://img.shields.io/twitter/follow/iashris_?style=social)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/Ashris/)
