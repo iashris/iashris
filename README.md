@@ -8,9 +8,6 @@ I am a product engineer and have four years of experience working in startups as
 
 <hr />
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/iashris/count.svg" />
-
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iashris?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashris)
